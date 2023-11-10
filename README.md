@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratiksha-dasgupta
-- 👀 I’m interested in Cloud Computing, C++, IoT
-- 🌱 I’m currently learning Cloud Computing, Python
-- 💞️ I’m looking to collaborate on Python, C++, Cloud Computing
+- 👀 I’m interested in WEB DEVELOPMENT
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on FULL STACK DEVELOPMENT
 - 📫 How to reach me dasguptapratiksha@gmail.com / Linkedin: @pratiksha-dasgupta-42a441230
 
 <!---
